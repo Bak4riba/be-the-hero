@@ -1,4 +1,10 @@
 # Projeto Be The Hero - Semana Omnistack
+
+## Instalação
+ * Instale as dependencias do projeto executando o comando ``` npm install``` dentro de cada umas das pastas: bcknd, ftnd e mobile.
+ * Execute o comando ```npm start``` dentro de cada pasta.
+ * Para acessar a versão web utilize um navegaodor no endereço localhost:3000 e para acessar a versão mobile do sistema leia o  QR Code no seu celular com o app Expo.
+
 ## Objetivo
   O meu objetivo ao desenvolver esse projeto era o de conhecer as tecnologias da stack que a omnistack trabalha
   e desenvolver minhas habilidades com essas tecnologias. Esse foi um dos primeiros passos. Pretendo desenvolver ainda mais utilizando essa stack.
